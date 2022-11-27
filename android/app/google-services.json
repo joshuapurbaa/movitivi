@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818326446424",
+    "project_id": "movitivi-a0c73",
+    "storage_bucket": "movitivi-a0c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818326446424:android:2141f06509ed1f720ec52d",
+        "android_client_info": {
+          "package_name": "com.example.movitivi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818326446424-r2a87jciipe7vp6v2hi5le4dkp6ot5cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7mMLa_pfiZSe9VOG12YpB7vCjy2y2DE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818326446424-r2a87jciipe7vp6v2hi5le4dkp6ot5cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
