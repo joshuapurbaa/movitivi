@@ -32,7 +32,7 @@ dart_code_metrics:
     - prefer-correct-test-file-name
     - prefer-correct-type-name:
         excluded: [ 'exampleExclude' ]
-        min-length: 3
+        min-length: 2
         max-length: 40
     - avoid-returning-widgets:
         ignored-names:
