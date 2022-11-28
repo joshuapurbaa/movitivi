@@ -16,3 +16,4 @@ export 'usecases/get_watchlist_status.dart';
 export 'usecases/get_watchlist_movies.dart';
 export 'usecases/remove_watchlist.dart';
 export 'usecases/save_watchlist.dart';
+export 'usecases/search_movies.dart';
