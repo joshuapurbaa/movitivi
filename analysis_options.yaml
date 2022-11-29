@@ -1,4 +1,6 @@
 analyzer:
+  exclude:
+    # - test/helpers/helper_test.mocks.dart
   plugins:
     - dart_code_metrics
  
@@ -11,8 +13,6 @@ dart_code_metrics:
     lines-of-executable-code: 50
     number-of-parameters: 4
     maximum-nesting-level: 5
-  metrics-exclude:
-    - test/**
   rules:
     - newline-before-return
     - no-boolean-literal-compare
@@ -30,10 +30,6 @@ dart_code_metrics:
     - prefer-conditional-expressions
     - prefer-correct-identifier-length
     - prefer-correct-test-file-name
-    - prefer-correct-type-name:
-        excluded: [ 'exampleExclude' ]
-        min-length: 2
-        max-length: 40
     - avoid-returning-widgets:
         ignored-names:
           - testFunction

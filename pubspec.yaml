@@ -16,6 +16,7 @@ dependencies:
   firebase_crashlytics: ^3.0.6
   equatable: ^2.0.5
   dartz: ^0.10.1
+  http: ^0.13.5
 
 dev_dependencies:
   flutter_test:
@@ -23,6 +24,8 @@ dev_dependencies:
 
   flutter_lints: ^2.0.0
   dart_code_metrics: ^5.0.1
+  mockito: ^5.3.2
+  build_runner: ^2.3.2
 
 
 flutter:
